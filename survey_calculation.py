@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # Load the data
-df = pd.read_csv('survey.csv')
+df = pd.read_csv('data/survey.csv')
 
 # Data Cleaning
 # Check for missing values

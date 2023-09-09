@@ -8,6 +8,9 @@ Name : Bang Diep Tran
 
 School : Glyndŵr University
 
+
+![Alt text](crimes_by_type_and_year.png)
+
 ## Modules Overview
 
 ### 1. System Evaluation (`system_evulation.py`)

@@ -3,6 +3,7 @@
 This repository contains scripts and modules aimed at analyzing datasets related to predictive policing, individual awareness, and crime data.
 
 Email : S21002998@mail.glyndwr.ac.uk
+
 Name : Bang Diep Tran
 
 ## Modules Overview

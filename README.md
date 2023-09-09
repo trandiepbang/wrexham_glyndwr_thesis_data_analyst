@@ -6,6 +6,8 @@ Email : S21002998@mail.glyndwr.ac.uk
 
 Name : Bang Diep Tran
 
+School : Glyndŵr University
+
 ## Modules Overview
 
 ### 1. System Evaluation (`system_evulation.py`)

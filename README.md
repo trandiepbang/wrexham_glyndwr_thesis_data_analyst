@@ -1,48 +1,48 @@
-# Thesis Project - Predictive Policing and Crime Analysis Project
+Project Title: Predictive Policing and Crime Analysis
 
-This repository contains scripts and modules aimed at analyzing datasets related to predictive policing, individual awareness, and crime data.
+The files in this repository are scripts and modules that can be used to look at crime data, predictive police data, and individual awareness data.
 
-Email : S21002998@mail.glyndwr.ac.uk
+Email : S21002998@mail.glyndwr.ac.uk.
 
-Name : Bang Diep Tran
+Bang Diep Tran
 
-School : Glyndŵr University
+Glyndŵr University for school
 
-## Modules Overview
+## Overview of Modules
 
-### 1. System Evaluation (`system_evulation.py`)
+Review of the System ('system_evulation.py')
 
-- **Purpose**: Evaluate a system similar to predictive policing through survey analysis.
-- **Key Features**:
-  - Analyze familiarity with predictive policing.
-  - Measure average understanding of predictive policing.
-  - Assess belief in the system's efficacy in reducing crime.
-  - Gauge comfort level with the system's usage.
-  - Determine likelihood of regular system usage.
-  - Identify prevalent concerns about the system.
-  - Visualize correlations between understanding, comfort, and usage likelihood.
+- Goal: Use survey research to look at a system that works like predictive policing.
+- **Key points**:
+  - Look at how familiar people are with predictive police.
+  - Figure out how much the normal person knows about predictive policing.
+  – Check how much people believe the system works to reduce crime.
+  - Figure out how comfortable you are using the system.
+  - Figure out how likely it is that the system will be used regularly.
+  — Find out what worries most people have about the system.
+  See if there are any links between learning, comfort, and likely usage.
 
-### 2. Survey Calculation (`survey_calculation.py`)
+Number 2: Survey Calculation ('survey_calculation.py')
 
-- **Purpose**: Analyze survey data on individual's situational awareness and perceived safety levels.
-- **Key Features**:
-  - Provide descriptive statistics for awareness and safety.
-  - Offer breakdowns of awareness and safety by age and city demographics.
-  - Showcase proportions for safety research and preferred awareness strategies.
-  - Visualize correlations between age, awareness, and safety ratings.
+The goal is to look at survey data about people's situational knowledge and how safe they think they are.
+- **Key points**:
+  — Give detailed numbers about safety and knowledge.
+  – Show how safety and knowledge are ranked by age group and city population.
+  — Display the amounts needed for safety studies and the most effective ways to raise awareness.
+  - Make graphs showing how age, awareness, and safety scores are related.
 
-### 3. Crime Data Analysis (`crime_data.py`)
+3. Analysis of Crime Data ("crime_data.py")
 
-- **Purpose**: Process and analyze crime data sourced from multiple CSV files.
-- **Key Features**:
-  - Group crime data by reporting police station and year.
-  - Calculate and visualize frequency of various crime types.
-  - Save aggregated data and visualizations for further use.
+- *Purpose*: Analyse and process crime data from several CSV files.
+- **Key points**:
+  - Sort the crime data by the year and the police station that reported it.
+  — Figure out and see how often different types of crimes happen.
+  - Keep gathered info and visualisations for later use.
 
-## Technology Stack
+## Technology Setup
 
-- **Data Manipulation & Analysis**: pandas
-- **Numerical Operations**: numpy
-- **Visualization**: seaborn, matplotlib
+- **Data Manipulation and Analysis**: pandas 
+- **Numerical Operations**: numpy 
+- **Visualisation**: seaborn, matplotlib 
 - **File System Operations**: os
 
